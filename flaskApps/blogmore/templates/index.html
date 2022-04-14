@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+
+{% block heading %}
+	First Page
+{% endblock %}
+
+{% block body %}
+	<p>
+		IMPORTANT:
+			•	If you send an e-mail directly to a Unisa e-mail address, insert your student number in the subject line to effect the correct routing to an advisor for processing.
+			•	Please check the list carefully and send an enquiry to one e-mail address only. This will ensure that there is no confusion as to who must respond, thereby preventing unnecessary delays in the response or the email portrayed as spam.
+			•	Students should only forward enquiries to the Registrar and Deputy Registrar in instances where those enquiries could not be resolved at other levels.
+			General resources: websites, and general SMS, fax and e-mail enquiries
+			A number of administrative processes, including the convenience of fee payments and information about examinations are available on the relevant platforms, such as colleges and subject department such as:
+
+	</p>
+	<a href="{{ url_for('more') }}">see more...</a>
+{% endblock %}
