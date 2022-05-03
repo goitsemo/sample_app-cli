@@ -5,7 +5,6 @@ from flask import Flask, render_template
 app = Flask(__name__)
 
 db = sqlite3.connect("lecture.db")
-#db = SQL("sqlite:///lecture.db")
 
 @app.route("/")
 def index():

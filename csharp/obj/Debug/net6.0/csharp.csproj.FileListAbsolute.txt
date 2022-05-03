@@ -1,0 +1,15 @@
+/home/morena/Desktop/workspace/src/dotnet/csharp/bin/Debug/net6.0/csharp
+/home/morena/Desktop/workspace/src/dotnet/csharp/bin/Debug/net6.0/csharp.deps.json
+/home/morena/Desktop/workspace/src/dotnet/csharp/bin/Debug/net6.0/csharp.runtimeconfig.json
+/home/morena/Desktop/workspace/src/dotnet/csharp/bin/Debug/net6.0/csharp.dll
+/home/morena/Desktop/workspace/src/dotnet/csharp/bin/Debug/net6.0/csharp.pdb
+/home/morena/Desktop/workspace/src/dotnet/csharp/obj/Debug/net6.0/csharp.csproj.AssemblyReference.cache
+/home/morena/Desktop/workspace/src/dotnet/csharp/obj/Debug/net6.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/morena/Desktop/workspace/src/dotnet/csharp/obj/Debug/net6.0/csharp.AssemblyInfoInputs.cache
+/home/morena/Desktop/workspace/src/dotnet/csharp/obj/Debug/net6.0/csharp.AssemblyInfo.cs
+/home/morena/Desktop/workspace/src/dotnet/csharp/obj/Debug/net6.0/csharp.csproj.CoreCompileInputs.cache
+/home/morena/Desktop/workspace/src/dotnet/csharp/obj/Debug/net6.0/csharp.dll
+/home/morena/Desktop/workspace/src/dotnet/csharp/obj/Debug/net6.0/refint/csharp.dll
+/home/morena/Desktop/workspace/src/dotnet/csharp/obj/Debug/net6.0/csharp.pdb
+/home/morena/Desktop/workspace/src/dotnet/csharp/obj/Debug/net6.0/csharp.genruntimeconfig.cache
+/home/morena/Desktop/workspace/src/dotnet/csharp/obj/Debug/net6.0/ref/csharp.dll
