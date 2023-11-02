@@ -1,2 +1,46 @@
 blackJack/gameClasses/__pycache__/
 flaskApps/tasks/__pycache__/
+
+/.bundle
+
+# Ignore the default SQLite database.
+/db/*.sqlite3
+/db/*.sqlite3-journal
+
+# Ignore all logfiles and tempfiles.
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+# Ignore uploaded files in development
+/storage/*
+!/storage/.keep
+
+/node_modules
+/yarn-error.log
+
+/public/assets
+.byebug_history
+
+# Ignore master key for decrypting credentials and more.
+/config/master.key
+
+# Other
+python/blackJack/gameClasses/__pycache__/
+python/flaskApps/tasks/__pycache__/
+
+
+# Ignore the default SQLite database.
+/db/*.sqlite3
+/db/*.sqlite3-journal
+/python/zairport/flights/__pycache__
+/python/zairport/flights/migrations/__pycache__
+/python/zairport/zairport/__pycache__
+/python/zairport/zairport/settings.py
+/python/pyposts/blog/__pycache__
+/python/pyposts/blog/migrations/__pycache__
+/python/pyposts/conf/__pycache__
+/python/pyposts/conf/settings.py
+#/conf/__pycache__
+#/blog/__pycache__
